@@ -15,19 +15,22 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>Jonathan Faasse</h1>
-        <p>Finance &amp; Accounting PhD Student at Cambridge Judge Business School</p>
+        <h1>Minimal</h1>
+        <p>A Theme for GitHub Pages</p>
+        <p class="view"><a href="http://github.com/orderedlist/minimal">View the Project on GitHub <small>orderedlist/minimal</small></a></p>
+        <ul>
+          <li><a href="https://github.com/orderedlist/minimal/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/orderedlist/minimal/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="http://github.com/orderedlist/minimal">Fork On <strong>GitHub</strong></a></li>
+        </ul>
       </header>
       <section>
-        <h1>faasse.co.nz</h1>
+        <h1>Let&rsquo;s Test Some Markup</h1>
         <p><em>View the <a href="http://github.github.com/github-flavored-markdown/sample_content.html">source of this content</a>.</em></p>
         <p>Let's get the whole "linebreak" thing out of the way. The next paragraph contains two phrases separated by a single newline character:</p>
         <p>Roses are red<br>Violets are blue</p>
         <p>The next paragraph has the same phrases, but now they are separated by two spaces and a newline character:</p>
         <p>Roses are <em>emphasized</em><br>Violets are <strong>strong</strong></p>
-        <h2>Media Mentions</h2>
-        <p><a href="http://dealbook.nytimes.com/2014/11/10/more-transparency-more-pay-for-c-e-o-s/?_r=0">More Transparency, More Pay for C.E.O.s</a> The New York Times (Nov 2014)</p>
-        <p><a href="http://www.economist.com/blogs/buttonwood/2014/11/executive-pay">If you hire them, pay will come</a> The Economist (Nov 2014)</p>
         <h2>A bit of the GitHub spice</h2>
         <h3>In addition to the changes in the previous section, certain references are auto-linked:</h3>
         <ul>
@@ -129,6 +132,7 @@ end</code></pre>
         <p>Lorem ipsizzle funky fresh i'm in the shizzle boom shackalack, consectetizzle adipiscing my shizz. Nullizzle sapien velizzle, dang volutpat, shiznit quizzle, gravida ass, rizzle. Pot get down get down tortor. Sed erizzle. Black go to hizzle dolizzle dapibizzle turpis fo shizzle my nizzle yo. Maurizzle pellentesque nibh et check it out. Bow wow wow check it out tortizzle. Pellentesque for sure rhoncizzle bow wow wow. In owned habitasse brizzle dictumst. Nizzle dapibizzle. Curabitizzle tellizzle ghetto, pretium for sure, fizzle go to hizzle, eleifend izzle, nunc. Dope suscipizzle. Integizzle boom shackalack velit ass purus.</p>
       </section>
       <footer>
+        <p>This project is maintained by <a href="http://github.com/orderedlist">Steve Smith</a></p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
